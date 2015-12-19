@@ -1,0 +1,8 @@
+main: me.thrisboss.HardcoreMain.Main
+name: HardcoreMain
+version: 1.0.0
+description: HardcoreMain
+commands:
+    spawn:
+    gm0:
+    gm1:
